@@ -1,5 +1,7 @@
 ---
 layout: default
+comments: true
+
 ---
 
     <article id="main">
@@ -7,11 +9,16 @@ layout: default
 	  <span class="icon fa-tree"></span>
     <h2 class="post-title">{{ page.title }}</h2>
     <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    {% include analytics.html %}
   </header>
 
   <section class="style4 wrapper container">
     {{ content }}
+    {% include disqus.html %}
+	
   </section>
+ 
+ 
     
     <footer>
         {% if page.previous %}
