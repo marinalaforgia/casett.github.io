@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Lorem Ipsum"
 date:   2014-08-31 14:36:23
 permalink: /first-post.html

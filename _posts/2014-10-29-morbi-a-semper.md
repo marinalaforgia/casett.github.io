@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Morbi a Semper"
 date:   2014-08-31 14:36:23
 ---
