@@ -69,7 +69,7 @@
 	.image.aboutme {
 	    display: block;
 	   	margin-left: auto;
-	    margin-right: auto;
+	    margin-right: -50%;
 	    width: 50%;}
 
 /* Button */
