@@ -1,0 +1,15 @@
+# Site settings
+title: Cassie Ettinger
+email: clettinger@ucdavis.edu
+description: > # this means to ignore newlines until "baseurl:"
+  Cassie Ettinger is a Ph.D. candidate at the University of California, Davis in Jonathan Eisen's lab. Her research interests include plant-microbe interactions, host-microbe coevolution, marine fungi and phylogenomics.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://casett.github.io" # the base hostname & protocol for your site
+twitter_username: casettron
+github_username:  casett
+
+# Build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
