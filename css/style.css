@@ -275,6 +275,11 @@
 				width: 100%;
 			}
 			
+			.image.featured.special:before {
+				background:none;
+				
+			}
+			
 		.image.aboutme {
 		    display: block;
 		   	margin-left: auto;
