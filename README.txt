@@ -11,12 +11,6 @@ and threw in four extra page layouts. Beyond that, it's the usual drill: fully r
 built on HTML5/CSS3/skel, and CCA licensed like all my other stuff. Sass sources are
 also included for those of you into that sort of thing (entirely optional).
 
-Special thanks to Michael Domaradzki (md.photomerchant.net) for allowing me to use
-his excellent photos in Twenty's demo*.
-
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Michael's work without his explicit permission!)
-
 AJ
 n33.co @n33co dribbble.com/n33
 
